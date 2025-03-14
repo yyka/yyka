@@ -1,8 +1,8 @@
-Hey there, I'm Yayaka! Welcome to my github profile!
+## **Heya, I'm Yayaka!**
 
-About me:
+**About me:**
 - Aspiring dev
-- 日本語学習者
 - Former editor for [BTMC](https://www.youtube.com/@BTMCLive) and [bmc clips](https://www.youtube.com/@BTMCClips)
+- 日本語学習者
 
 [![roadmap.sh](https://roadmap.sh/card/tall/67cc24eafe4b7df03b01fd4d?variant=dark)](https://roadmap.sh)
